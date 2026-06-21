@@ -1,2 +1,1 @@
-# SmearROIselection
-Inference-time ROI policy evaluation for domain-robust deep autofocus in WBC, PBS, and BMA smear microscopy, with frozen-model ablations, domain-gap analysis, code, tables, and figures.
+This repository contains the code and compact research artifacts for evaluating inference-time region-of-interest selection as a deployment variable in deep smear-microscopy autofocus. Seventeen ROI policies are compared across WBC, PBS, and BMA while model weights, preprocessing, confidence thresholds, evaluation support, and FOV-level aggregation remain fixed. The study focuses on domain-gap reduction, effective input burden, near-focus behavior, robustness, and the limitations of WBC-dominated pooled reporting.
