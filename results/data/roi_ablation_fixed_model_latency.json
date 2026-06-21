@@ -1,0 +1,11 @@
+{
+  "sign_total_time_s": 1535.2284460800001,
+  "r_plus_total_time_s": 1394.1098195480008,
+  "r_minus_total_time_s": 1343.6131952970027,
+  "sign_ms_per_roi": 4.123300421883813,
+  "stageB_ms_per_roi": 3.676473846916718,
+  "r_plus_ms_per_roi": 3.7442854982085807,
+  "r_minus_ms_per_roi": 3.6086621956248566,
+  "n_rois": 372330,
+  "batch_size": 128
+}

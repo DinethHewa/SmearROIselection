@@ -1,0 +1,11 @@
+\begin{tabular}{llrrrr}
+\toprule
+method & scope_label & weighted_mae_um & macro_dataset_mae_um & domain_gap_mae & largest_dataset_share_pct \\
+\midrule
+proposed_two_stage_roi & pooled_full_pipeline & 0.1866 & 0.2956 & 0.1792 & 99.5573 \\
+direct_single_stage_regression & held_out_test_subset & 0.1922 & 0.4364 & 0.5375 & 99.5673 \\
+classical_focus_best & held_out_test_subset & 0.8722 & 1.6133 & 1.3243 & 99.5673 \\
+center_crop_inference_only & pooled_inference_probe & 0.1862 & 0.2841 & 0.1702 & 99.5573 \\
+full_field_tiled_proxy & pooled_proxy_probe & 0.1859 & 0.2283 & 0.1232 & 99.5573 \\
+\bottomrule
+\end{tabular}

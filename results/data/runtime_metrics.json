@@ -1,0 +1,22 @@
+{
+  "track": "smears",
+  "preprocess_time_per_roi_ms": 0.9517926356580095,
+  "stageA_time_per_roi_ms": 85.04238838281708,
+  "stageB_time_per_roi_ms": 70.06252946092673,
+  "aggregation_time_per_fov_ms": 0.006580687568202848,
+  "total_pipeline_latency_per_fov_k7_ms_est": 1092.403554043381,
+  "model_size_sign_mb": 11.30345630645752,
+  "model_size_r_plus_mb": 0.5797805786132812,
+  "model_size_r_minus_mb": 0.5799179077148438,
+  "memory_usage_mb": 2194.22265625,
+  "k_values": [
+    3,
+    5,
+    7
+  ],
+  "latency_vs_k_ms": [
+    468.1767121257737,
+    780.2901330845773,
+    1092.403554043381
+  ]
+}

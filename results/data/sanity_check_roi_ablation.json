@@ -1,0 +1,107 @@
+{
+  "track": "smears",
+  "sample_fovs": [
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/bma_imgs/pos002_2/pos002_2_page_8.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/bma_imgs/pos002_3/pos002_3_page_11.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/bma_imgs/pos002_3/pos002_3_page_8.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/bma_imgs/pos004_0/pos004_0_page_12.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/bma_imgs/pos005_3/pos005_3_page_12.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/bma_imgs/pos006_1/pos006_1_page_4.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos217_Cam01_RGB_MB/FieldPos217_Cam01_RGB_MB_page_7.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos255_Cam01_RGB_MB/FieldPos255_Cam01_RGB_MB_page_5.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos256_Cam01_RGB_MB/FieldPos256_Cam01_RGB_MB_page_5.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos280_Cam01_RGB_MB/FieldPos280_Cam01_RGB_MB_page_14.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos302_Cam01_RGB_MB/FieldPos302_Cam01_RGB_MB_page_12.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos317_Cam01_RGB_MB/FieldPos317_Cam01_RGB_MB_page_13.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos318_Cam01_RGB_MB/FieldPos318_Cam01_RGB_MB_page_13.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos374_Cam01_RGB_MB/FieldPos374_Cam01_RGB_MB_page_9.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos395_Cam01_RGB_MB/FieldPos395_Cam01_RGB_MB_page_12.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos404_Cam01_RGB_MB/FieldPos404_Cam01_RGB_MB_page_4.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos411_Cam01_RGB_MB/FieldPos411_Cam01_RGB_MB_page_11.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos413_Cam01_RGB_MB/FieldPos413_Cam01_RGB_MB_page_5.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos414_Cam01_RGB_MB/FieldPos414_Cam01_RGB_MB_page_10.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos427_Cam01_RGB_MB/FieldPos427_Cam01_RGB_MB_page_11.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos433_Cam01_RGB_MB/FieldPos433_Cam01_RGB_MB_page_14.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos434_Cam01_RGB_MB/FieldPos434_Cam01_RGB_MB_page_13.png",
+    "/home/dineth/focus_measure/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos469_Cam01_RGB_MB/FieldPos469_Cam01_RGB_MB_page_7.png",
+    "/home/dineth/focus_measure/datasets/WBC_dataset1/9318/9318_8.jpg"
+  ],
+  "summary": [
+    {
+      "roi_policy": "center_top1",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "random_k@k=1",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "random_k@k=3",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "random_k@k=5",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "random_k@k=7",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "focus_only_topk@k=1",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "focus_only_topk@k=3",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "focus_only_topk@k=5",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "focus_only_topk@k=7",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "occupancy_only_topk@k=1",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "occupancy_only_topk@k=3",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "occupancy_only_topk@k=5",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "occupancy_only_topk@k=7",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "hybrid_proposed",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    },
+    {
+      "roi_policy": "all_rois",
+      "sampled_fovs": 24,
+      "selection_success_rate": 1.0
+    }
+  ],
+  "errors": []
+}
